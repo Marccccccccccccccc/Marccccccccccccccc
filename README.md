@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marccccccccccccccc
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning java
 - 📫 You can reach me through Outlook mako2010@outlook.de
 
 <!---
