@@ -4,6 +4,6 @@ minecraft player & modder, learning java & kotlin
 
 working on **[BrewHack](https://github.com/Eglijohn/brew-hack)** w/ eglijohn - a fabric utility mod
 
-**tools i use:** rust · js · bun · postgres · git · linux
+**tools i use:** rust · ts · bun · postgres · git · linux
 
 discord: `Marc3D_dev`
