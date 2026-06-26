@@ -8,4 +8,4 @@ working on **[BrewHack](https://github.com/Eglijohn/brew-hack)** w/ eglijohn - a
 
 discord: `marc3d.dev`
 
-webiste: [marc3d.dev](https://marc3d.dev/)
+website: [marc3d.dev](https://marc3d.dev/)
