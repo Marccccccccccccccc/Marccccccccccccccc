@@ -6,4 +6,6 @@ working on **[BrewHack](https://github.com/Eglijohn/brew-hack)** w/ eglijohn - a
 
 **tools i use:** j*va · kotlin · rust · ts · bun · postgres · git · linux
 
-discord: `Marc3D_dev`
+discord: `marc3d.dev`
+
+webiste: [marc3d.dev](https://marc3d.dev/)
